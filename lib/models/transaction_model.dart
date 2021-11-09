@@ -16,19 +16,19 @@ var transactionData = [
   {
     'name': 'Uber Ride',
     'photo': 'assets/images/uberLogo.png',
-    'date': '1st Apr 2020',
+    'date': '1st OCT 2021',
     'amount': '-\$35.214'
   },
   {
     'name': 'Adidas Outlet',
     'photo': 'assets/images/adidasLogo.png',
-    'date': '30th Mar 2020',
+    'date': '25th SEP 2021',
     'amount': '-\$100.00'
   },
   {
     'name': 'Payment Received',
     'photo': 'assets/images/userPhotoo.png',
-    'date': '15th Mar 2020',
+    'date': '15th AUG 2021',
     'amount': '+\$250.00'
   }
 ];
