@@ -5,4 +5,4 @@ Porjeto de UI para bancos.
 
 #PREVIEW
 ##
-![](assets/ap.png)
+![](assets/app.png)
